@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### Tech student | Python, Web Development & Data
-Hands-on projects with Flask, REST APIs, automation and databases.
+Hands-on projects with Python, automation and databases.
 
 ---
 
